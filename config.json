@@ -77,6 +77,30 @@
           "type": "txt"
         }
       ]
+    },
+    {
+      "id": "testing-grade-calculator",
+      "title": "Testing a Grade Calculator",
+      "description": "Write pytest tests for common cases, grade boundaries, and invalid scores",
+      "path": "assignments/testing-grade-calculator",
+      "dueDate": "2026-10-12",
+      "attachments": [
+        {
+          "name": "Grade Calculator",
+          "file": "grade_calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Starter Tests",
+          "file": "test_grade_calculator.py",
+          "type": "python"
+        },
+        {
+          "name": "Python Requirements",
+          "file": "requirements.txt",
+          "type": "txt"
+        }
+      ]
     }
   ]
 }
